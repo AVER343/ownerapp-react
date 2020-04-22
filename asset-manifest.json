@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/owwnerapp-react/static/css/main.db57bf72.chunk.css",
-    "main.js": "/owwnerapp-react/static/js/main.a1bf1e6f.chunk.js",
-    "main.js.map": "/owwnerapp-react/static/js/main.a1bf1e6f.chunk.js.map",
-    "runtime-main.js": "/owwnerapp-react/static/js/runtime-main.1b2f58e1.js",
-    "runtime-main.js.map": "/owwnerapp-react/static/js/runtime-main.1b2f58e1.js.map",
-    "static/css/2.ee241de9.chunk.css": "/owwnerapp-react/static/css/2.ee241de9.chunk.css",
-    "static/js/2.a59da599.chunk.js": "/owwnerapp-react/static/js/2.a59da599.chunk.js",
-    "static/js/2.a59da599.chunk.js.map": "/owwnerapp-react/static/js/2.a59da599.chunk.js.map",
-    "index.html": "/owwnerapp-react/index.html",
-    "precache-manifest.7f5c69a6661d11648a91d5a57f26404c.js": "/owwnerapp-react/precache-manifest.7f5c69a6661d11648a91d5a57f26404c.js",
-    "service-worker.js": "/owwnerapp-react/service-worker.js",
-    "static/css/2.ee241de9.chunk.css.map": "/owwnerapp-react/static/css/2.ee241de9.chunk.css.map",
-    "static/css/main.db57bf72.chunk.css.map": "/owwnerapp-react/static/css/main.db57bf72.chunk.css.map",
-    "static/js/2.a59da599.chunk.js.LICENSE.txt": "/owwnerapp-react/static/js/2.a59da599.chunk.js.LICENSE.txt",
-    "static/media/crown.ed28accb.svg": "/owwnerapp-react/static/media/crown.ed28accb.svg"
+    "main.css": "/ownerapp-react/static/css/main.db57bf72.chunk.css",
+    "main.js": "/ownerapp-react/static/js/main.23d53ffa.chunk.js",
+    "main.js.map": "/ownerapp-react/static/js/main.23d53ffa.chunk.js.map",
+    "runtime-main.js": "/ownerapp-react/static/js/runtime-main.b649efd8.js",
+    "runtime-main.js.map": "/ownerapp-react/static/js/runtime-main.b649efd8.js.map",
+    "static/css/2.ee241de9.chunk.css": "/ownerapp-react/static/css/2.ee241de9.chunk.css",
+    "static/js/2.378658ad.chunk.js": "/ownerapp-react/static/js/2.378658ad.chunk.js",
+    "static/js/2.378658ad.chunk.js.map": "/ownerapp-react/static/js/2.378658ad.chunk.js.map",
+    "index.html": "/ownerapp-react/index.html",
+    "precache-manifest.48d120316d0aa589aff19f289a8dd453.js": "/ownerapp-react/precache-manifest.48d120316d0aa589aff19f289a8dd453.js",
+    "service-worker.js": "/ownerapp-react/service-worker.js",
+    "static/css/2.ee241de9.chunk.css.map": "/ownerapp-react/static/css/2.ee241de9.chunk.css.map",
+    "static/css/main.db57bf72.chunk.css.map": "/ownerapp-react/static/css/main.db57bf72.chunk.css.map",
+    "static/js/2.378658ad.chunk.js.LICENSE.txt": "/ownerapp-react/static/js/2.378658ad.chunk.js.LICENSE.txt",
+    "static/media/crown.ed28accb.svg": "/ownerapp-react/static/media/crown.ed28accb.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.1b2f58e1.js",
+    "static/js/runtime-main.b649efd8.js",
     "static/css/2.ee241de9.chunk.css",
-    "static/js/2.a59da599.chunk.js",
+    "static/js/2.378658ad.chunk.js",
     "static/css/main.db57bf72.chunk.css",
-    "static/js/main.a1bf1e6f.chunk.js"
+    "static/js/main.23d53ffa.chunk.js"
   ]
 }
