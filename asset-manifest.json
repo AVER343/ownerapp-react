@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/owwnerapp-react/static/css/main.db57bf72.chunk.css",
+    "main.js": "/owwnerapp-react/static/js/main.a1bf1e6f.chunk.js",
+    "main.js.map": "/owwnerapp-react/static/js/main.a1bf1e6f.chunk.js.map",
+    "runtime-main.js": "/owwnerapp-react/static/js/runtime-main.1b2f58e1.js",
+    "runtime-main.js.map": "/owwnerapp-react/static/js/runtime-main.1b2f58e1.js.map",
+    "static/css/2.ee241de9.chunk.css": "/owwnerapp-react/static/css/2.ee241de9.chunk.css",
+    "static/js/2.a59da599.chunk.js": "/owwnerapp-react/static/js/2.a59da599.chunk.js",
+    "static/js/2.a59da599.chunk.js.map": "/owwnerapp-react/static/js/2.a59da599.chunk.js.map",
+    "index.html": "/owwnerapp-react/index.html",
+    "precache-manifest.7f5c69a6661d11648a91d5a57f26404c.js": "/owwnerapp-react/precache-manifest.7f5c69a6661d11648a91d5a57f26404c.js",
+    "service-worker.js": "/owwnerapp-react/service-worker.js",
+    "static/css/2.ee241de9.chunk.css.map": "/owwnerapp-react/static/css/2.ee241de9.chunk.css.map",
+    "static/css/main.db57bf72.chunk.css.map": "/owwnerapp-react/static/css/main.db57bf72.chunk.css.map",
+    "static/js/2.a59da599.chunk.js.LICENSE.txt": "/owwnerapp-react/static/js/2.a59da599.chunk.js.LICENSE.txt",
+    "static/media/crown.ed28accb.svg": "/owwnerapp-react/static/media/crown.ed28accb.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b2f58e1.js",
+    "static/css/2.ee241de9.chunk.css",
+    "static/js/2.a59da599.chunk.js",
+    "static/css/main.db57bf72.chunk.css",
+    "static/js/main.a1bf1e6f.chunk.js"
+  ]
+}
